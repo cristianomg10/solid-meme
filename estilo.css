@@ -1,3 +1,10 @@
+:root {
+    --azul: blue;
+    --amarelo: yellow;
+    --vermelho: red;
+    --preto: black;
+    --verde: green;
+}
 
 p{
     color: red;
@@ -5,6 +12,7 @@ p{
 
 div{
     background-color: yellow;
+}
 
 h2{
     color: blue;
